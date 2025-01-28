@@ -11,9 +11,9 @@ I am a Web Developer, passionate about creating **responsive**, **accessible**, 
 ---
 
 ## 🚀 My Recent Projects
-1. [FlowrSpot app](https://flowrspot-gu00tfs4n-rusmirs-projects-c08d6e54.vercel.app/)
+1. [FlowrSpot app](https://flowrspot-pearl.vercel.app/)
 2. [Food App](https://food-app-dev.vercel.app/)
-3. [My Portfolio](https://portfolio-5c2dukqqj-rusmirs-projects-c08d6e54.vercel.app/)
+3. [My Portfolio](https://portfolio-app-kohl-rho.vercel.app/)
 
 ---
 
