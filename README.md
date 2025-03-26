@@ -14,7 +14,7 @@ I am a Web Developer, passionate about creating **responsive**, **accessible**, 
 1. [FlowrSpot app](https://flowrspot-pearl.vercel.app/)
 2. [Food App](https://food-app-dev.vercel.app/)
 3. [My Portfolio](https://portfolio-app-kohl-rho.vercel.app/)
-4. [Star Wars App](https://star-wars-app-eight-alpha.vercel.app/)
+4. [Star Wars App](https://star-wars-lake-nine.vercel.app/)
 
 ---
 
