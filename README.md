@@ -5,7 +5,7 @@ I am a Web Developer, passionate about creating **responsive**, **accessible**, 
 ### 📬 Contact me:
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rusmir.c@hotmail.com)
 [![Website](https://img.shields.io/badge/Website-orange?style=for-the-badge)](https://yourwebsite.com)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:com.rusmir@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:rusmircomor@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/rusmir-%C4%8Domor-29b5a71b9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
