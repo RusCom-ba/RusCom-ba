@@ -15,6 +15,7 @@ I am a Web Developer, passionate about creating **responsive**, **accessible**, 
 2. [Food App](https://food-app-dev.vercel.app/)
 3. [My Portfolio](https://portfolio-app-kohl-rho.vercel.app/)
 4. [Star Wars App](https://star-wars-lake-nine.vercel.app/)
+5. [Društvo slovenskih lovk](https://www.drustvoslovenskihlovk.si/)
 
 ---
 
